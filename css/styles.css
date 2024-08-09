@@ -1,0 +1,130 @@
+.carousel-indicators{
+	bottom: 0;
+}
+
+.carousel-caption{
+	bottom: 0;
+}
+
+.carousel-caption h2{
+	text-shadow: 2px 2px 8px black;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.carousel-caption h3{
+	color: black;
+	font-weight: bold;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+#search{
+	padding-top: 0.5em;
+}
+
+#title{
+	font-family: "Lobster";
+}
+
+#favButton{
+	width: 13em;
+	color: #279fdb;
+	margin-bottom: 1em;
+}
+
+#singleFav{
+	color: #279fdb;
+	margin-bottom: 1em;
+}
+
+.thumbCaption > *{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+
+.thumbBtns > *{
+	margin-right: 1em;
+}
+
+.message{
+	width: 100%;
+	height: 1.5em;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	display: inherit;
+}
+
+.titleLink{
+	text-align: center;
+}
+
+
+.imagePanelHeight{
+    height: 250px;	
+}
+
+.imgThumb {
+	border-color: #9A1F1F;
+	border-width: 0.2em;
+	background-color: #E57F7F;
+}
+
+.desc {
+	font-family: "Amatic SC";
+}
+
+.expand{
+	color: #E57F7F;
+}
+
+.imagePanelHeight{
+    height: 250px;	
+}
+
+.panel-default .panel-heading {
+	color: #E47F7F;
+}
+
+.responsive{
+	max-width: 100%;
+	height: auto;
+}
+
+#reviewForm{
+	max-width: 100%;
+	height: auto;
+}
+
+.comment{
+	width: 100%;
+	height: auto;
+}
+
+textarea{
+	height: 4em;
+	width: 100%;
+	resize: none;
+}
+
+input[type=text]{
+	color: #490859;
+}
+input[type=password]{
+	color: #490859;
+}
+textarea{
+	color: #490859;
+}
+
+select:focus{
+	color: #490859;
+}
+
+select:not(:focus){
+	color: #490859;
+}
+
+option{
+	color: #490859;
+}
